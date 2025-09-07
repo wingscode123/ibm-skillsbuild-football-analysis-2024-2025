@@ -97,5 +97,4 @@ Granite berperan sebagai **AI analyst assistant**, yang mengubah data kuantitati
 ---
 
 **Link Submission**  
-- **Notebook Google Colab**: *(https://colab.research.google.com/drive/1Vjm26K0g4INou2kYitZee6zyDcH0KlIa?usp=sharing)*  
-- **Slide Presentasi**: *(isi link di sini)*  
+- **Notebook Google Colab**: *(https://colab.research.google.com/drive/1Vjm26K0g4INou2kYitZee6zyDcH0KlIa?usp=sharing)*
